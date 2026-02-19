@@ -47,3 +47,6 @@ Distance from Nemedusahoseki ( Salamander Riding Goat ): 33 over this memory was
 * Show agent memory/relationships in a sidebar
 * Have a text input for "describe what happens next"
 * Watch the map and states update
+
+## Others Descriptions
+Each simulation generates a unique 2085 present by procedurally creating historical events (sunken ships, migrations, conflicts) that shaped the agents' world. The cognitive architecture learns from these histories. - Duck
