@@ -40,3 +40,10 @@ Distance from Medusahoseki: 0 over this memory was from a prior 12 year period
 The present heat status: Surface layer of sand is starting to turn to glass
 Distance from Nemedusahoseki ( Salamander Riding Goat ): 33 over this memory was from a prior 9 year period
 ~~~
+
+### Help Needed
+* Render that ASCII map with actual graphics/colors (maybe the directional text overlaid)
+* Display the environmental states in a panel
+* Show agent memory/relationships in a sidebar
+* Have a text input for "describe what happens next"
+* Watch the map and states update
