@@ -3,8 +3,6 @@ This is not a roguelike, this is a cognitive architectural simulation that recre
 
 Agents process your goals through NLP, selecting responces probabilistically derived from your previous input, learning which responces build trust between you and the agent using dynamic reward allocation. Currently command line, but the GUI should show the agents goal interpretation ( whether it understood what you asked ) and its chosen responce.
 
-You instruct a cognitive architecture agent through natural language. The agent navigates post-WWIII Venice Nashville, playing games and negotiating with competing architectures. Outcomes feed through interconnected systems (lunar calendar, health monitoring, social evolution, language negotiation, anomaly detection). The parser is the main interface.
-
 ## Lore Context
 This is an alternative history simulation of the evolution of new ethnic group over the centuries.
 
