@@ -1,6 +1,8 @@
 # Primer
 This is not a roguelike, this is a cognitive architectural simulation that recreate post-conflict zones in my science fiction and fantasy novels. You type out full natural language prompts to instruct the cognitive agent, the MC, to interact with the simulation. Some concepts overlap with roguelike such as procedural dungeon creation.
 
+Agents process your goals through NLP, selecting responces probabilistically derived from your previous input, learning which responces build trust between you and the agent using dynamic reward allocation. Currently command line, but the GUI should show the agents goal interpretation ( whether it understood what you asked ) and its chosen responce.
+
 ## Lore Context
 This is an alternative history simulation of the evolution of new ethnic group over the centuries.
 
